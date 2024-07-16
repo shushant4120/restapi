@@ -1,6 +1,4 @@
-http://localhost:9011/userlist
-
-
+GET request type
 http://localhost:9011/userlist
 
 
